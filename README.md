@@ -1,1 +1,1 @@
-# Computer-Vision-Practice
+# Computer-Vision-Projects
